@@ -112,7 +112,7 @@ How to Run Locally -
 
 Clone this repository:
 
-git clone [https://github.com/your-username/redmi.git](https://github.com/ashutosh53/Frontend-Engineer---Apple-Website-Team-/edit/main/README.md)
+git clone [https://github.com/Anup64/Frontend-Engineer---Apple-Website-Team.git]
 
 
 Open index.html in your preferred web browser.
